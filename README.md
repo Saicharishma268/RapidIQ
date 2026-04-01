@@ -39,7 +39,15 @@ Add mysql-connector-j-9.6.0.jar to classpath
 Compile: javac -cp ".;mysql-connector-j-9.6.0.jar" src/*.java
 Run: java -cp ".;mysql-connector-j-9.6.0.jar" LoginPage
 
-Developer
 
-Name: Saicharishma
-GitHub: https://github.com/Saicharishma268
+
+## 🤝 Contributors
+
+| Name         | GitHub                                          |
+| ------------ | ----------------------------------------------- |
+| Saicharishma | [Profile](https://github.com/Saicharishma268)   |
+| Harshini     | [Profile](https://github.com/Harshini-482)      |
+| Yaamini      | [Profile](https://github.com/yaaaminiii)        |
+| Menaka       | [Profile](https://github.com/MenakaYattapu2006) |
+
+
